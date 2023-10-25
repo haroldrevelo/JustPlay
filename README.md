@@ -1,4 +1,4 @@
-# Prueba Técnica - Full Stack con Node.js, PostgreSQL y (Vue.js, ReactJS)
+# Prueba Técnica - Full Stack con Node.js, PostgreSQL y ReactJS TypeScript
 
 ### Este es el desarrollo de la prueba solicitada
 
