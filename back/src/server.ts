@@ -29,6 +29,10 @@ app.use((req, res, next) => {
   
   const upload = multer({ storage: storage });
 
+  app.get('/',  async (req: Request, res: Response) => {
+    res.status(200).send('JustPlay api is running!')
+  })
+
   app.get('/games', async (req: Request, res: Response) => {
     const searchTerm: string = req.query.search as string;
 
