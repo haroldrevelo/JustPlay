@@ -2,8 +2,9 @@
 
 ### Este es el desarrollo de la prueba solicitada
 
-#### - `Backend en Node Js, Prisma y Express`
 #### - `FronEnd en React, TypeScript y Tailwind`
+#### - `Backend en Express, Prisma.io`
+#### - `DataBase en PostgreSQL`
 
 
 #### By: Harold Revelo
