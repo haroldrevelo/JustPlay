@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "nodemon",
     "start": "ts-node dist/index.js",
-    "postinstall": "prisma migrate up",
+    "postinstall": "prisma migrate",
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
