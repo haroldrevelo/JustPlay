@@ -6,8 +6,9 @@
 #### - [`Backend en Express, Prisma.io`](./back)
 #### - `DataBase en PostgreSQL`
 
-### [`LIVE APP`](https://just-play-front.vercel.app/)
 ![imagen](https://github.com/haroldrevelo/JustPlay/assets/68023264/d414c18b-2e13-4741-9231-1a93214d12b8)
+
+### [`LIVE APP`](https://just-play-front.vercel.app/)
 
 
 #### By: Harold Revelo
